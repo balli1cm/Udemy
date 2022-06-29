@@ -4,11 +4,13 @@ console.log(40 + 8 + 23 - 10);
 console.log("Jonas");
 console.log(23);
 
-let firstName = "Matilda";
+let firstName = "Matt";
+let middleInitial = "G";
+let lastName = "Nicolls";
 
 console.log(firstName);
-console.log(firstName);
-console.log(firstName);
+console.log(middleInitial);
+console.log(lastName);
 
 let jonas_Matilda = "JM";
 let $function = 27;
